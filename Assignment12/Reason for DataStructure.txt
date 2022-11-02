@@ -1,0 +1,16 @@
+I have used Vector as Data Structure for the assignment ad reasons are
+
+1. I am using class and have multiple objects and vector can store multiple objects.
+2. As number of Circle as unknown and vector can change its size (vectors are dynamic)
+3. Stored data can be easily accessed.
+
+Structure for storing data is as follow
+
+ Circle 1 ->  radius
+	      area
+	      cordinates -> x
+			    y
+ Circle 2 ->  radius
+	      area
+	      cordinates -> x
+			    y
